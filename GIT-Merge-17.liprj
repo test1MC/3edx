@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LingoProject flattenSnippets="false" SelectedTarget="" TargetLanguage="dv" xml:lang="dv" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="12">
     <ProjectFile Source="Target/Flare-Empty.flprj" Target="Target/Flare-Empty.flprj" />
+    <TMConnection Connection="es.db" ReadOnly="false" Type="StandAlone" />
 </LingoProject>
